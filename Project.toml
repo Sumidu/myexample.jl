@@ -1,6 +1,6 @@
 name = "myexample"
 uuid = "01236765-0244-4185-8fd5-fe60a02a63cb"
-authors = ["andré Calero Valdez"]
+authors = ["André Calero Valdez"]
 version = "0.1.0"
 
 [compat]
